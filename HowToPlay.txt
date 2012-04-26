@@ -1,0 +1,15 @@
+PREMISE
+   Once upon a time, a little penguin called Bobo lost his favorite bubble blower.  After extensive investigation, Bobo discovers that the neighborhood bully, Big Billy, had stolen Bobo’s toy out of jealousy.  Thus, Bobo embarks on a journey to find Big Billy and take back his bubble blower.  Along the way, Bobo must defeat Big Billy’s evil henchmen (whom he had coerced into working for him).  Help little Bobo on his journey to find his bubble blower!  Good luck!
+
+DIRECTIONS
+   Avoid the monsters and their attacks while shooting bubbles at them!  There are multiple power-ups in the game.
+   -Lightning: Shoots lightning bolts rather than bubbles.  Goes through multiple monsters
+   -Skates: Speeds up your character.
+   -Bubble Gun: Speeds up your shooting ability.
+   -First Aid: Gives your character an extra life.
+   -Diamond: Adds 500 points to your score.
+   -Poison: Slows down your character.
+   
+CONTROLS
+   -Arrow keys to move
+   -SHIFT key to shoot
